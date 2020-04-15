@@ -1,0 +1,5 @@
+		<!-- Single Post Tags + Share-->
+          <div class="d-sm-flex justify-content-between align-items-center border-top border-bottom mb-5 py-2">
+            <div class="py-2"><a class="tag-link" href="#">Architecture</a><a class="tag-link" href="#">Design</a><a class="tag-link" href="#">Construction</a></div>
+            <div class="py-2"><span class="dinline-block align-middle py-2 mr-2"><strong>Share:</strong></span><a class="social-btn sb-style-3 sb-facebook mb-0" href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="socicon-facebook"></i></a><a class="social-btn sb-style-3 sb-twitter mb-0" href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="socicon-twitter"></i></a><a class="social-btn sb-style-3 sb-pinterest mb-0" href="#" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="socicon-pinterest"></i></a></div>
+          </div>
